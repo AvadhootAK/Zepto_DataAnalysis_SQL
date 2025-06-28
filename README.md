@@ -1,7 +1,4 @@
 # Zepto_DataAnalysis_SQL
-Sure! Here's a **simplified version** of your `README.md`:
-
----
 
 # 🛒 Zepto SQL Data Analysis
 
@@ -66,6 +63,4 @@ This project is a basic SQL analysis of Zepto product data. It includes:
 2. Insert the data.
 3. Run the queries one by one to explore and analyze.
 
----
 
-Let me know if you want this saved as a `.md` file!
